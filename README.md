@@ -140,19 +140,6 @@ Completed seminars and training covering construction safety, Excel, professiona
 
 ---
 
-## Portfolio
-
-This repository contains my personal portfolio website and supporting files.
-
-### Website Pages
-
-- [Home](index.html)
-- [About Me](about.html)
-- [Portfolio](portfolio.html)
-- [Services](services.html)
-- [Contact](contact.html)
-- [Resume](resume.pdf)
-
 ### Portfolio Areas
 
 - Data entry and information handling
@@ -164,9 +151,6 @@ This repository contains my personal portfolio website and supporting files.
 - Civil Engineering academic and project-related work
 - PowerPoint presentations
 
-Project screenshots and additional work samples can be added to the `images/` folder.
-
----
 
 ## Contact
 
@@ -190,27 +174,4 @@ Chief Officer – ATSOCA
 Email: atsoca.operations2@gmail.com
 
 ---
-
-## About This Repository
-
-This portfolio is based on my provided resume and is intended to present my education, work experience, technical skills, professional development, and portfolio areas.
-
-The website is built using HTML and CSS and can be published through GitHub Pages.
-
-### GitHub Pages Setup
-
-For a repository named:
-
-`shielamaeputungan.github.io`
-
-Go to:
-
-**Settings → Pages → Deploy from a branch → main → /(root) → Save**
-
-The published website will be available at:
-
-`https://shielamaeputungan.github.io`
-
----
-
 © 2026 Shiela Mae Putungan. All rights reserved.
